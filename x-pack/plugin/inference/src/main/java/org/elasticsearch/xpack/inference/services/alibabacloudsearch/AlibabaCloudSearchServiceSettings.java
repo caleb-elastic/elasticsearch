@@ -219,8 +219,6 @@ public class AlibabaCloudSearchServiceSettings extends FilteredXContentObject
         return serviceId;
     }
 
-
-
     public String getHost() {
         return host;
     }
